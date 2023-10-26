@@ -37,7 +37,7 @@ html,body {
 	height: 100%;
 	top: 0;
 	left: 0;
-	background-color: #eee;
+	background-color: #0e0e0f;
 	background-position: center center;
 	background-repeat: no-repeat;
 	-webkit-touch-callout: none;
@@ -61,7 +61,7 @@ canvas#sigma_bg_1 {
     top:0;
     right:0;
 	width: 240px;
-	background-color: #fff;
+	background-color: #0e0e0f;
 	margin: 0;
 	word-wrap: break-word;
 	background-color:rgba(255,255,255,0.8);
