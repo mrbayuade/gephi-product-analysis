@@ -4,23 +4,22 @@
   "data": "data.json",
   "logo": {
     "file": "",
-    "link": "",
+    "link": "https://www.avo.co.id/",
     "text": "Bayu"
   },
   "text": {
     "more": "",
     "intro": "",
-    "title": "Product Avoskin"
+    "title": "Product Analysis Avoskin"
   },
   "legend": {
     "edgeLabel": "Link",
-    "edge"
     "colorLabel": "Modularity Class",
     "nodeLabel": "Product"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Out-Degree",
+    "groupSelectorAttribute": "Modularity Class",
     "hoverBehavior": "default"
   },
   "informationPanel": {
@@ -29,23 +28,22 @@
   },
   "sigma": {
     "drawingProperties": {
-      "edgeColor" : "#FFFFFF",
       "defaultEdgeType": "curve",
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
-      "labelThreshold": 1000,
+      "labelThreshold": 10,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 12
+      "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 10,
-      "minEdgeSize": 5,
-      "minNodeSize": 3,
-      "maxNodeSize": 10
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
     },
     "mouseProperties": {
       "maxRatio": 20,
