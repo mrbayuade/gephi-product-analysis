@@ -28,20 +28,20 @@
   },
   "sigma": {
     "drawingProperties": {
-      "defaultEdgeType": "arrow",
+      "defaultEdgeType": "curve",
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
-      "labelThreshold": 100,
+      "labelThreshold": 1000,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
       "defaultLabelSize": 12
     },
     "graphProperties": {
-      "maxEdgeSize": 5,
-      "minEdgeSize": 1,
+      "maxEdgeSize": 7,
+      "minEdgeSize": 3,
       "minNodeSize": 3,
       "maxNodeSize": 10
     },
